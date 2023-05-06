@@ -24,7 +24,7 @@ html {
     background-color: #191919;
     background-image: url(./img/background.png);
     background-size: cover;
-    background-position: center;
+    background-position: 400px;
 }
 
 nav{
