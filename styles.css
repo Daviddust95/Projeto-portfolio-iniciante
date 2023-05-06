@@ -23,8 +23,9 @@ html {
     width: 100%;
     background-color: #191919;
     background-image: url(./img/background.png);
-    background-size: cover;
-    background-position: 400px;
+    background-size: 100%;
+    background-position: 450px;
+    background-repeat: no-repeat;
 }
 
 nav{
